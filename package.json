@@ -1,0 +1,25 @@
+{
+  "name": "backend-mern-template",
+  "version": "1.0.0",
+  "description": "You can use this template to get started making a MERN backend stack. Make sure you run ```npm install``` to download all of your node modules. Use ```create-react-app client``` to create the frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenn-CodeCrew/backend-mern-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenn-CodeCrew/backend-mern-template/issues"
+  },
+  "homepage": "https://github.com/Kenn-CodeCrew/backend-mern-template#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16"
+  }
+}
